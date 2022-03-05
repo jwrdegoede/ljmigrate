@@ -1,4 +1,4 @@
-# ljmigrate 1.5
+# ljmigrate 1.5 with dreamwidth support
 
 A tool for archiving posts from any LiveJournal clone site and optionally 
 migrating them to any other LJ-clone site. Useful for moving from LiveJournal
@@ -193,6 +193,13 @@ TBD
 [don-pit (Petr Gladkiy)](https://github.com/don-pit)
 
 Early bug-reporting provided by LJ users ldybastet, kannnichtfranz, eleraama, daiseechain, nm973, zortified, weirdquark, winterthunder, unmisha, chicken_cem.
+
+## Changes in ljmigrate 1.5 with dreamwidth support compared to plain 1.5
+
+- Add support for plaintext passwords over https to allow use with dreamwidth.
+- Hans de Goede: note this is just a quick hack which worked to migrate my
+  journal from livejournal to dreamwidth, which I hope will be useful to others
+  too. I do not have time to offer support on this.
 
 ## Changes from ljdump 1.2
 
